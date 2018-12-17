@@ -1,0 +1,4 @@
+#Mon Dec 17 16:30:57 WAT 2018
+base.0=C\:\\Users\\TechJar\\Documents\\cordova\\Noisefiles\\platforms\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
